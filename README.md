@@ -1,4 +1,4 @@
-# Step by step installation mit virtueller Python-Umgebung:
+# Step by step Installation mit virtueller Python-Umgebung:
 
 
 1.) Der folgende Befehl "git clone" erstellt einen neuen Ordner mit den Projekt im akutellen Verzeichnis
