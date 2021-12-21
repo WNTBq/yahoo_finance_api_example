@@ -1,7 +1,7 @@
 # Step by step Installation mit virtueller Python-Umgebung:
 
 
-1.) Der folgende Befehl "git clone" erstellt einen neuen Ordner mit dem Projekt im akutellen Verzeichnis
+1.) Der folgende Befehl "git clone" erstellt einen neuen Ordner mit dem Projekt im aktuellen Verzeichnis
 ```
 % git clone https://github.com/WNTBq/yahoo_finance_api_example.git
 Cloning into 'yahoo_finance_api_example'...
