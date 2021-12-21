@@ -39,11 +39,11 @@ Das ausführen der Beispiele sollte dann über die Console funktionieren:
 ```
 % python3 4_example_plotly.py 
 ```
-In "Visual Studio Code" muss man evt. noch diese Virtuelle-Umgebung auswählen (links unten) indem man den relativen Pfad angibt:
+In "Visual Studio Code" (Wenn man den "play"-Button benutzen möchte) muss man evt. noch diese Virtuelle-Umgebung auswählen (links unten) indem man den relativen Pfad angibt:
 ```
 ./env/bin/python
 ```
-(der Pfad relative zum root-Verzeichnis des VS Code Projekts)
+(der Pfad relativ zum root-Verzeichnis des VS Code Projekts zu dem gerade erstellten Python-Interpreter)
 
 
 
